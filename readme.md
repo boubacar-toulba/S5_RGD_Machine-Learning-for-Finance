@@ -12,7 +12,7 @@ Ce projet compare différentes méthodes de calcul de la Value-at-Risk (VaR) sur
 
 Encadré par : Professeur HICHAM Jenati  
 Institution : Institut National de Statistique et d'Économie Appliquée (INSEA)  
-Année : 2024-2025
+Année : 2025-2026
 
 ## Structure du Projet
 
@@ -120,4 +120,4 @@ Fichiers générés dans `results/` :
 
 ## Licence
 
-Projet académique - INSEA 2024-2025
+Projet académique - INSEA 2025-2026
